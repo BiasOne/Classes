@@ -1,0 +1,5 @@
+﻿  Showroom.cpp
+  Vehicle.cpp
+  Generating Code...
+E:\C++ code\COP3503\lab1\Lab1_Morales\Lab1_Morales\Showroom.cpp(51,30): warning C4018:  '<': signed/unsigned mismatch
+  Lab1_Morales.vcxproj -> E:\C++ code\COP3503\lab1\Lab1_Morales\Debug\Lab1_Morales.exe
